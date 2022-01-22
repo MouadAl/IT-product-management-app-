@@ -1,7 +1,7 @@
 # IT-product-management-app-
 
 ## What it does ?
-It is an app that helps IT stores to manage their products, you can performe basic oprations such as (erach,add,remove,modify) products.
+It is an app that helps IT stores to manage their products, you can performe basic oprations such as (search,add,remove,modify) products.
 I have developped this  JEE app using Servlet, JSP, JSTL respecting the **MVC** Pattern.
 I used potgresql(v14) as database server , tomcat(v9.0) as webserver and maven as build tool.
 
