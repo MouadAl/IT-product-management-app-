@@ -27,7 +27,7 @@ I used potgresql(v14) as database server , tomcat(v9.0) as webserver and maven a
  Change login:"postgres" and password:"mouad" in "IT-product-management-app-/src/main/java/dao/SingletonConnetion.java " with your local configuration. <br>
  
   Step3:
- Execute ***mvn build install*** <br/>
+ Execute ***mvn package install*** <br/>
  Deploy the war file on target to tomcat
  
 
