@@ -9,6 +9,9 @@ I used potgresql(v14) as database server , tomcat(v9.0) as webserver and maven a
 <li>The Business layer contains an interface, an implementation of the interface and a class to Test this implementation. </li>
 <li>The web layer contains a model, a controller (Servlet) and JSP views. </li>
 </ul>
+</br>
+![application-image](images/application.png)
+
 
 ## What I learned ?
 <ul>
@@ -16,8 +19,6 @@ I used potgresql(v14) as database server , tomcat(v9.0) as webserver and maven a
   <li> Mapping Object Relational with JDBC </li>
   <li> MVC Pattern </li>
 </ul>
-</br>
-![application](images/application.PNG)
 
 
 ## How to run ? 
