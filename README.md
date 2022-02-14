@@ -16,6 +16,9 @@ I used potgresql(v14) as database server , tomcat(v9.0) as webserver and maven a
   <li> Mapping Object Relational with JDBC </li>
   <li> MVC Pattern </li>
 </ul>
+</br>
+![application](images/application.PNG)
+
 
 ## How to run ? 
 
